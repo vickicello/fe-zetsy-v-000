@@ -12,6 +12,11 @@ h1 {
 	padding: 20px 20px;
 }
 
+.wrapper header h1:hover {
+	transition: color;
+	color: rgb(111, 127, 122)
+}
+
 /*////////// Global Styles //////////*/
 
 body {
