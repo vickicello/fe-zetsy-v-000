@@ -1,4 +1,7 @@
 /*////////////// Fonts //////////////*/
+h1 {
+	font-family: bold 2.6em/1.5em 'Baskerville', Georgia;
+}
 
 /* link the web font used for the level 1 heading here */
 
@@ -15,6 +18,11 @@ body {
 	margin: 0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
+}
+
+p {
+  font-size: 1em;
+  line-height: 1.5em;
 }
 
 /* Write all remaining styles here */
