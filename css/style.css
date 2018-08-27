@@ -32,4 +32,9 @@ p {
   line-height: 1.5em;
 }
 
+h2 {
+	font-family: 'Baskerville';
+	color: rgb(153, 170, 164);	
+}
+
 /* Write all remaining styles here */
