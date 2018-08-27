@@ -20,9 +20,9 @@ body {
 	font-family: 'Times New Roman', serif;
 }
 
-div.main-pics img {	
+div.main-pics img {
 	margin-top: 1px;
-	border: solid rgb(152, 173, 166);
+	border: 5px solid rgb(152, 173, 166);
 }
 
 .wrapper {
@@ -39,7 +39,7 @@ p {
 
 h2 {
 	font-family: 'Baskerville';
-	color: rgb(153, 170, 164);	
+	color: rgb(153, 170, 164);
 }
 
 /* Write all remaining styles here */
