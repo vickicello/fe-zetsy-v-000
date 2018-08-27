@@ -43,4 +43,9 @@ h2 {
 	color: rgb(153, 170, 164);
 }
 
-/* Write all remaining styles here */
+.press-images {
+	margin-top: 1px;
+	border: 2px solid rgb(153, 170, 164);
+	width: auto;
+}
+
