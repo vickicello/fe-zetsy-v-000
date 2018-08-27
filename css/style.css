@@ -20,6 +20,11 @@ body {
 	font-family: 'Times New Roman', serif;
 }
 
+div.main-pics img {	
+	margin-top: 1px;
+	border: solid rgb(152, 173, 166);
+}
+
 .wrapper {
 	width: 960px;
 	margin: 0 auto;
