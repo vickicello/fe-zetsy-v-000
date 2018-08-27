@@ -8,6 +8,8 @@
 h1 {
 	font-family: bold 'Baskerville', sans-serif;
 	font-size: 4em;
+	color: rgb(153, 170, 164);
+	padding: 20px 20px;
 }
 
 header h1 {
