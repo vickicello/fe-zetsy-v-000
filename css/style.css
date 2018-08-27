@@ -10,6 +10,7 @@ h1 {
 	font-size: 4.5em;
 	color: rgb(153, 170, 164);
 	padding: 20px 20px;
+	border-bottom: 1px solid;
 }
 
 .wrapper header h1:hover {
