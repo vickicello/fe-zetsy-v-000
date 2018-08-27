@@ -20,7 +20,7 @@ body {
 	font-family: 'Times New Roman', serif;
 }
 
-div.main-pics img {
+.main-pics img {
 	margin-top: 1px;
 	border: 5px solid rgb(152, 173, 166);
 }
