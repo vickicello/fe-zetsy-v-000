@@ -2,7 +2,7 @@
 @font-face {
     font-family: 'Baskerville';
     src: url('fonts/Baskerville.ttc');
-    src: local('Baskerville'), local('Baskerville'), url('fonts/Baskerville.ttc') format('ttc');
+    /*src: local('Baskerville'), local('Baskerville'), url('fonts/Baskerville.ttc') format('ttc');*/
   }
 
 h1 {
