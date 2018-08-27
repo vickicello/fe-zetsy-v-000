@@ -12,16 +12,6 @@ h1 {
 	padding: 20px 20px;
 }
 
-header h1 {
-	display: block;
-	color: rgb(152, 173, 166);
-	padding-bottom: 15px;
-	margin: 0 0 5px;
-	border-bottom: 1px solid #ccc;
-}
-
-/* link the web font used for the level 1 heading here */
-
 /*////////// Global Styles //////////*/
 
 body {
