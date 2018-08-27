@@ -64,6 +64,7 @@ h2 {
 	display: block;
 	padding: 2px;
 	border: 4px solid rgb(153, 170, 164);
+	max-width: 100%;
 }
 
 .press-images a {
