@@ -33,9 +33,9 @@ body {
 }
 
 .main-pics img {
-	margin-top: 1px;
+	margin: 0, auto;
 	border: 5px solid rgb(152, 173, 166);
-	width: auto;
+	width: 100%;
 }
 
 .wrapper {
