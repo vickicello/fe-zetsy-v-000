@@ -62,7 +62,6 @@ h2 {
 .press-images {
 	margin-bottom: 20px;
 	display: block;
-	border: 4px solid rgb(153, 170, 164);
 	max-width: 100%;
 }
 
@@ -73,7 +72,7 @@ h2 {
 .col-1 {
   float: left;
   width: 20%;
-	padding: auto, 2px;
+	border: 4px solid rgb(153, 170, 164);
   background: #ccc;
 }
 
