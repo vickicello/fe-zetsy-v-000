@@ -95,7 +95,7 @@ h2 {
 
 .clearfix::after {
   content: "";
-  display: table;
+  display: block;
   clear: both;
   visibility: hidden;
   height: 0;
