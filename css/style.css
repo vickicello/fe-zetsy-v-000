@@ -94,6 +94,7 @@ h2 {
 .col-4 {
 	width: 20%;
 	background: #ccc;
+	padding: auto, 2px;
 }
 
 .clearfix:after {
