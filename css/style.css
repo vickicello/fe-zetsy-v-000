@@ -83,7 +83,7 @@ h2 {
 
 .col-3 {
   float:left;
-	padding: auto, 2px;
+	border: 4px solid rgb(153, 170, 164);
 	width: 20%;
 	background: #ccc;
 }
