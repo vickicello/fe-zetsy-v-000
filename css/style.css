@@ -72,18 +72,24 @@ h2 {
 
 .col-1 {
   float: left;
-  width: 32%;
+  width: 23.5%;
   background: #ccc;
 }
 
 .col-2 {
   float: left;
-  width: 66%;
+  width: 23.5%;
   background: #ccc;
 }
 
 .col-3 {
-  background: #ccc;
+  float:left;
+	width: 23.5%;
+	background: #ccc;
+}
+
+.col-4 {
+	background: #ccc;
 }
 
 .clearfix:after {
