@@ -71,26 +71,26 @@ h2 {
 
 .col-1 {
 	float: left;
-  width: 22%;
-	border: 2% solid rgb(153, 170, 164);
+  width: 22.5%;
+	border: 3px solid rgb(153, 170, 164);
 }
 
 .col-2 {
 	float: left;
-	border: 2% solid rgb(153, 170, 164);
-  width: 22%;
+	border: 3px solid rgb(153, 170, 164);
+  width: 22.5%;
 }
 
 .col-3 {
 	float: right;
-	border: 2% solid rgb(153, 170, 164);
-	width: 22%;
+	border: 3px solid rgb(153, 170, 164);
+	width: 22.5%;
 }
 
 .col-4 {
 	float: right;
-	width: 22%;
-	border: 2% solid rgb(153, 170, 164);
+	width: 22.5%;
+	border: 3px solid rgb(153, 170, 164);
 }
 
 .clearfix::after {
