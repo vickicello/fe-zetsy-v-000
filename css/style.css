@@ -77,9 +77,8 @@ h2 {
 
 .col-2 {
   float: left;
-	padding: auto, 2px;
+	border: 4px solid rgb(153, 170, 164);
   width: 20%;
-  background: #ccc;
 }
 
 .col-3 {
