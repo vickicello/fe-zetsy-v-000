@@ -78,6 +78,7 @@ h2 {
 
 .col-2 {
   float: left;
+	padding: auto, 2px;
   width: 20%;
   background: #ccc;
 }
