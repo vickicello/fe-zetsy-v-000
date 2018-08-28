@@ -72,23 +72,24 @@ h2 {
 
 .col-1 {
   float: left;
-  width: 23.5%;
+  width: 20%;
   background: #ccc;
 }
 
 .col-2 {
   float: left;
-  width: 23.5%;
+  width: 20%;
   background: #ccc;
 }
 
 .col-3 {
   float:left;
-	width: 23.5%;
+	width: 20%;
 	background: #ccc;
 }
 
 .col-4 {
+	width: 20%;
 	background: #ccc;
 }
 
